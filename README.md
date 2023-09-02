@@ -1,18 +1,8 @@
-## Getting Started
+# CALCULADORA DE IMC 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### Meu primeiro codigo java feito para treinar a sintaxe da linguagem, entendendo o objeto 'Scanner' para coletar as informações do usuario, e entendendo também o metodo de impresso para o usuario 'System.out.println'
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+### Todo o upload do codigo para GITHUB foi feito atraves da linha de comando do GIT
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
