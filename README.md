@@ -28,5 +28,3 @@ Este é um programa simples em Java que calcula o Índice de Massa Corporal (IMC
 Divirta-se calculando o seu IMC!
 
 
-### Todo o upload do codigo para GITHUB foi feito atraves da linha de comando do GIT.
-
